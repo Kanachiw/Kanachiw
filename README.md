@@ -1,6 +1,6 @@
 👋🏽Hello, I am Kanachi!
 
-💡I am the Founder and Former Social Media Director of Powered By Youth. I am a Sophomore at Northeastern University pursuing a BS in Computer Engineering and a minor in Data Science. I am a self-motivated coder interested in front and backend web development. I take several LinkedIn Essential training classes (HTML+ CSS+ JAVASCRIPT) and pursue web-development projects. As a Computer Engineering major, I am passionate about network systems and exploring the Internet of Things (IoT). 
+💡I am the Founder and Former Social Media Director of Powered By Youth(Now Youth4beto). I am a Sophomore at Northeastern University pursuing a BS in Computer Engineering and a minor in Data Science. I am a self-motivated coder interested in front and backend web development. I take several LinkedIn Essential training classes (HTML+ CSS+ JAVASCRIPT) and pursue web-development projects. As a Computer Engineering major, I am passionate about network systems and exploring the Internet of Things (IoT). 
 
 👩🏽‍💻 Currently Working on:  
 +Building my portfolio website @ https://kanachiweli.me
